@@ -1,5 +1,7 @@
-![alt text](https://github.com/kyegomez/NanoCAD/blob/master/Nano-CAD.png)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/kyegomez/NanoCAD/blob/master/Nano-CAD.png>
+</p>
 Nano CAD: open-source nanotech CAD for the advancement of Humanity
 ==============================
 
