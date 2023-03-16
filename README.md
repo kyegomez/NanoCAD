@@ -167,4 +167,7 @@ Alternatively, you can follow [instructions to create a chroot](http://diyhpl.us
 
 http://www.youtube.com/watch?v=vEYN18d7gHg
 
-The nanofactory animation was funded by a challenge grant. Read more [here](http://www.foresight.org/animation_challenge/index.html) (Foresight Institute). The original files are [here](http://www.foresight.org/nanofactory.mov) and [here](http://www.foresight.org/animation_challenge/nanofactory_360x240copyright_sor3.mov).
+
+
+<h1>resources</h1>
+<p href="https://iopscience.iop.org/article/10.1088/0957-4484/11/2/306/pdf">Silicon-based molecular nanotechnology</p>
