@@ -1,3 +1,5 @@
+![alt text](https://github.com/kyegomez/NanoCAD/Nano-CAD.png)
+
 Nano CAD: open-source nanotech CAD for the advancement of Humanity
 ==============================
 
