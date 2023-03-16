@@ -1,4 +1,4 @@
-NanoEngineer: open-source nanotech CAD
+Nano CAD: open-source nanotech CAD for the advancement of Humanity
 ==============================
 
 NanoEngineer-1 is an open-source molecular modeling and simulation system that looks and feels like SolidWorks. It features an easy-to-use interactive 3D graphical user interface for designing and modeling large, atomically precise composite systems like molecular machines, DNA, carbon nanotubes, peptide chains, machine elements, etc.
