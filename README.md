@@ -5,8 +5,8 @@
 
 <h1 align="center">Nano CAD: open-source nanotech CAD for the advancement of Humanity</h1>
 <h2 align='center'> Roadmap</h2>
-<p align='center'> 👉 Advance UI </p>
-<p align='center'> 👉 Implement latest nano-research techniques and models  </p>
+<p align='center'> 👉 Modernize the UI and recreate the backend logic in RUST </p>
+<p align='center'> 👉 Implement latest nano-research/ nanoinformatic techniques and models  </p>
 <p align='center'>👉 Create, train, and deploy NanoX the AI for nanomachine synthesis </p>
 
 
