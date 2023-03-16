@@ -172,3 +172,4 @@ http://www.youtube.com/watch?v=vEYN18d7gHg
 <h1>Resources</h1>
 <h2>Papers</h2>
 <p><a href="https://iopscience.iop.org/article/10.1088/0957-4484/11/2/306/pdf">Silicon-based molecular nanotechnology</a></p>
+<p><a href="https://arxiv.org/pdf/2105.06673.pdf">Autonomous artificial intelligence discovers mechanisms of molecular self-organization in virtual experiments</a></p>
