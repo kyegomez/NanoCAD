@@ -4,6 +4,12 @@
 </p>
 
 <h1 align="center">Nano CAD: open-source nanotech CAD for the advancement of Humanity</h1>
+<h2 align='center'> Roadmap</h2>
+<p align='center'> Advance UI </p>
+<p align='center'> Implement latest nano-research techniques and models  </p>
+<p align='center'>Create, train, and deploy NanoX the AI for nanomachine synthesis </p>
+
+
 
 
 NanoEngineer-1 is an open-source molecular modeling and simulation system that looks and feels like SolidWorks. It features an easy-to-use interactive 3D graphical user interface for designing and modeling large, atomically precise composite systems like molecular machines, DNA, carbon nanotubes, peptide chains, machine elements, etc.
